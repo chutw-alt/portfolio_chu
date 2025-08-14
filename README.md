@@ -8,7 +8,7 @@ Focused on delivering data-driven insights using SQL, Power BI, and cloud tools.
 
 | Project | Description | Skills |
 | --- | --- | --- |
-| [Carbon Emissions Analysis](./sql/carbon_emissions_analysis) | Analyzed industry-level carbon emissions to identify top contributing sectors in the most recent year. | Filtering, Aggregation, Grouping, Subqueries |
+| [Carbon Emissions Analysis](./sql_analysis_carbon_emissions) | Analyzed industry-level carbon emissions to identify top contributing sectors in the most recent year. | Filtering, Aggregation, Grouping, Subqueries |
 
 ---
 
