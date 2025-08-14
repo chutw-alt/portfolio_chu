@@ -1,0 +1,19 @@
+# SQL Carbon Emissions Analysis
+
+## Dataset
+- **Source**: [The Carbon Catalogue](https://www.nature.com/articles/s41597-022-01178-9)  
+This project is based on a practice project from [DataCamp](https://www.datacamp.com/).
+- Duration: 2013–2017  
+- Countries: 28
+
+## Objective
+Analyze carbon emissions by industry group, counting unique companies and total carbon footprint for the most recent year.
+
+## SQL Query
+- Count of unique companies per industry group
+- Total carbon footprint (rounded to 1 decimal)
+- Sorted by footprint (descending)
+
+## Files
+- `carbon_emissions_analysis.sql.txt` – SQL query script
+- `image_carbon_emissions_analysis/` – Query result screenshots
