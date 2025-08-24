@@ -5,25 +5,31 @@ The focus is on learning different JOIN techniques and applying them to relation
 
 ---
 
-## 📌 Practice Files
+## 📸 Practice Screenshots
 
 - **1_my code(ON)**  
-  Practice `INNER JOIN ... ON` to connect country and economic data.
+  Practice `INNER JOIN ... ON` to connect country and economic data.  
+  ![INNER JOIN ON](images/1_my%20code(ON).png)
 
 - **1_my code(USING)**  
-  Exercise with `INNER JOIN ... USING(column)` to simplify join condition between countries and languages.
+  Exercise with `INNER JOIN ... USING(column)` to simplify join condition between countries and languages.  
+  ![INNER JOIN USING](images/1_my%20code(USING).png)
 
 - **2_my code(USING)**  
-  Filter joined tables with `WHERE` after `USING` join to query specific languages (e.g., Bhojpuri).
+  Filter joined tables with `WHERE` after `USING` join to query specific languages (e.g., Bhojpuri).  
+  ![USING with WHERE](images/2_my%20code(USING).png)
 
 - **3_my code(multi join,and)**  
-  Combine multiple tables with `INNER JOIN` and an additional condition (`AND`) to match both country and year.
+  Combine multiple tables with `INNER JOIN` and an additional condition (`AND`) to match both country and year.  
+  ![Multi JOIN AND](images/3_my%20code(multi%20join,and).png)
 
 - **4_my code(left join)**  
-  Apply `LEFT JOIN` to keep all records from cities and match available country information.
+  Apply `LEFT JOIN` to keep all records from cities and match available country information.  
+  ![LEFT JOIN](images/4_my%20code(left%20join).png)
 
 - **5_my code(top10)**  
-  Use `LEFT JOIN`, `GROUP BY`, and `ORDER BY` to calculate top 10 regions by average GDP per capita.
+  Use `LEFT JOIN`, `GROUP BY`, and `ORDER BY` to calculate top 10 regions by average GDP per capita.  
+  ![Top 10 by GDP](images/5_my%20code(top10).png)
 
 ---
 
