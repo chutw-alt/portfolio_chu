@@ -1,5 +1,10 @@
 # SQL JOIN Practice
 
+This repository contains my practice exercises with SQL queries.  
+The focus is on learning different JOIN techniques and applying them to relational datasets.
+
+---
+
 ## 🎯 Learning Note
 This project is not intended as a tutorial but as a record of my practice.  
 It reflects continuous learning and building confidence in SQL for data analysis and relational database work.
@@ -11,7 +16,7 @@ It reflects continuous learning and building confidence in SQL for data analysis
 2. [1_my code(USING)](#1_my-codeusing)  
 3. [2_my code(USING)](#2_my-codeusing)  
 4. [3_my code(multi join,and)](#3_my-codemulti-joinand)  
-5. [4_my code(left join)](#4_my-codeleft-join)  
+5. [4_my code(left join)](#4-my-codeleft-join)  
 6. [5_my code(top10)](#5_my-codetop10)
 
 ---
