@@ -25,8 +25,9 @@ It demonstrates SQL proficiency in filtering, grouping, aggregating, sorting, an
 - Practice end-to-end SQL workflow: query writing, result interpretation, and documentation.
 
 ## Key Takeaways
-This query highlights data reporting gaps across countries, showing that not all countries have consistent yearly emission records.  
-Understanding such gaps is crucial for reliable analysis and reflects the importance of checking data quality, not just running aggregations.
+- Not all countries have yearly emission records.  
+- Highlighting such gaps is key for reliable analysis.  
+- Query Result: `queries/incomplete_emission_records.sql.png`
 
 
 ## SQL Query
