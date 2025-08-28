@@ -1,6 +1,6 @@
 # SQL Carbon Emissions Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes industry-level carbon emissions using SQL to identify which company contribute the most in the recent year of available data.  
 
 It demonstrates SQL proficiency in filtering, grouping, aggregating, sorting, and exploring data quality issues that often arise in real-world datasets.
