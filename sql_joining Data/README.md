@@ -5,54 +5,23 @@ The focus is on learning different JOIN techniques and applying them to relation
 
 ---
 
-## 🎯 Learning Note
-This project is not intended as a tutorial but as a record of my practice.  
-It reflects continuous learning and building confidence in SQL for data analysis and relational database work.
+## About this Repository
+This project serves as a record of my SQL practice.  
+It reflects continuous learning, building confidence with JOIN operations, and developing the ability to connect multiple tables to extract insights — a fundamental step in solving real-world data problems.
 
 ---
 
-## 📑 Table of Contents
-1. [1_my code(ON)](#1_my-codeon)  
-2. [1_my code(USING)](#1_my-codeusing)  
-3. [2_my code(USING)](#2_my-codeusing)  
-4. [3_my code(multi join,and)](#3_my-codemulti-joinand)  
-5. [4_my code(left join)](#4-my-codeleft-join)  
-6. [5_my code(top10)](#5_my-codetop10)
+## Table of Contents
+- 1_joining – Practice with `INNER JOIN ... ON`
+- 1_query result(USING) – Practice with `INNER JOIN ... USING`
+- 2_query result(USING) – Using `WHERE` after `USING` join
+- 3_multi joining – Combining multiple joins with `AND`
+- 4_query result(left join) – Applying `LEFT JOIN`
+- 5_query result_top10 – Aggregating and sorting with `GROUP BY`, `ORDER BY`
 
 ---
 
-## 📸 Practice Screenshots
+## Related Project
+For a more applied example, see the **`sql_evaluate_manufacturing_process`** folder,  
+where SQL is used to analyze production data and apply statistical process control (SPC).
 
-### 1_my code(ON)
-Practice `INNER JOIN ... ON` to connect country and economic data.  
-![INNER JOIN ON](images/1_my%20code(ON).png)
-
----
-
-### 1_my code(USING)
-Exercise with `INNER JOIN ... USING(column)` to simplify join condition between countries and languages.  
-![INNER JOIN USING](images/1_my%20code(USING).png)
-
----
-
-### 2_my code(USING)
-Filter joined tables with `WHERE` after `USING` join to query specific languages (e.g., Bhojpuri).  
-![USING with WHERE](images/2_my%20code(USING).png)
-
----
-
-### 3_my code(multi join,and)
-Combine multiple tables with `INNER JOIN` and an additional condition (`AND`) to match both country and year.  
-![Multi JOIN AND](images/3_my%20code(multi%20join,and).png)
-
----
-
-### 4_my code(left join)
-Apply `LEFT JOIN` to keep all records from cities and match available country information.  
-![LEFT JOIN](images/4_my%20code(left%20join).png)
-
----
-
-### 5_my code(top10)
-Use `LEFT JOIN`, `GROUP BY`, and `ORDER BY` to calculate top 10 regions by average GDP per capita.  
-![Top 10 by GDP](images/5_my%20code(top10).png)
