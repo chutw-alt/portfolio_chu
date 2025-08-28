@@ -1,8 +1,10 @@
 # SQL Carbon Emissions Analysis
 
 ## 📌 Project Overview
-This project analyzes industry-level carbon emissions using SQL to identify which sectors contribute the most in the most recent year of available data.  
-Applied SQL skills in filtering, grouping, aggregating, and sorting results.
+This project analyzes industry-level carbon emissions using SQL to identify which company contribute the most in the recent year of available data.  
+
+It demonstrates SQL proficiency in filtering, grouping, aggregating, sorting, and exploring data quality issues that often arise in real-world datasets.
+
 
 ## Dataset
 - **Source**: [The Carbon Catalogue](https://www.nature.com/articles/s41597-022-01178-9)  
@@ -18,16 +20,21 @@ Applied SQL skills in filtering, grouping, aggregating, and sorting results.
   - `carbon_footprint_pcf` – Product Carbon Footprint (in CO₂ equivalent)
 
 ## Objective
-Analyze carbon emissions by industry group, counting unique companies and total carbon footprint for the most recent year.
+- Rank industries by unique company count and total carbon footprint (latest year).  
+- Detect and highlight reporting gaps across countries and years.  
+- Practice end-to-end SQL workflow: query writing, result interpretation, and documentation.
 
-## Insights
-This query highlights data reporting gaps across countries, showing that not all countries have consistent yearly emission records. Understanding such gaps is crucial for reliable analysis.
+## Key Takeaways
+This query highlights data reporting gaps across countries, showing that not all countries have consistent yearly emission records.  
+Understanding such gaps is crucial for reliable analysis and reflects the importance of checking data quality, not just running aggregations.
+
 
 ## SQL Query
 - Count of unique companies per industry group
 - Total carbon footprint (rounded to 1 decimal)
 - Sorted by footprint (descending)
 
-## Files
-- `carbon_emissions_analysis.sql.txt` – SQL query script
-- `queries_carbon_emissions_analysis/` – Query result screenshots
+## Categories
+- **SQL Scripts**: `carbon_emissions_analysis.sql.txt`  
+- **Outputs**: `queries_carbon_emissions_analysis/` (query result screenshots)  
+
