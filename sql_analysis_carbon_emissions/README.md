@@ -20,6 +20,9 @@ Applied SQL skills in filtering, grouping, aggregating, and sorting results.
 ## Objective
 Analyze carbon emissions by industry group, counting unique companies and total carbon footprint for the most recent year.
 
+## Insights
+This query highlights data reporting gaps across countries, showing that not all countries have consistent yearly emission records. Understanding such gaps is crucial for reliable analysis.
+
 ## SQL Query
 - Count of unique companies per industry group
 - Total carbon footprint (rounded to 1 decimal)
