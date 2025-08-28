@@ -27,4 +27,4 @@ Analyze carbon emissions by industry group, counting unique companies and total 
 
 ## Files
 - `carbon_emissions_analysis.sql.txt` – SQL query script
-- `image_carbon_emissions_analysis/` – Query result screenshots
+- `queries_carbon_emissions_analysis/` – Query result screenshots
