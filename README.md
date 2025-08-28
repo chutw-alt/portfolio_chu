@@ -1,10 +1,10 @@
-# 📂 Data Analytics Portfolio
+# Data Analytics Portfolio
 Hi, I'm Chu.This Portfolio is a growing collection of my data analytics projects, starting with SQL case studies.  
 Focused on delivering data-driven insights using SQL, Power BI, and cloud tools.
 
 ---
 
-## 📌 SQL Projects
+## SQL Projects
 
 | Project | Description | Skills |
 | --- | --- | --- |
@@ -12,12 +12,12 @@ Focused on delivering data-driven insights using SQL, Power BI, and cloud tools.
 
 ---
 
-## 📊 Power BI Projects *(Coming Soon)*
+## Power BI Projects *(Coming Soon)*
 Planned projects will demonstrate interactive dashboards, KPI tracking, and data storytelling.
 
 ---
 
-## 🛠 Skills Highlight
+## Skills Highlight
 
 **Data Skills**
 - **SQL**: SELECT, GROUP BY, JOIN, COUNT(DISTINCT ...), Subqueries
