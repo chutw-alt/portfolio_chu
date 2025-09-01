@@ -18,8 +18,8 @@ It showcases my ability to query, analyze, and interpret data to solve real-worl
 
 | Project | Description | Skills |
 | --- | --- | --- |
-| [Carbon Emissions Analysis](sql_analysis_carbon_emissions) | Analyzed industry-level carbon emissions to identify top contributing sectors in the most recent year; explored data quality gaps across countries and years. | Filtering, Aggregation, Grouping, Subqueries, Data Quality Checks |
-|[SQL JOIN Data]  | A structured set of exercises focusing on JOIN techniques to connect multiple tables and extract insights. Includes practice with INNER JOIN, LEFT JOIN, and multi-table joins. | INNER/LEFT JOIN, USING, GROUP BY, ORDER BY, Multi-Table Joins |
+| Carbon Emissions Analysis | Analyzed industry-level carbon emissions to identify top contributing sectors in the most recent year; explored data quality gaps across countries and years. | Filtering, Aggregation, Grouping, Subqueries, Data Quality Checks |
+| SQL JOIN Data | A structured set of exercises focusing on JOIN techniques to connect multiple tables and extract insights. Includes practice with INNER JOIN, LEFT JOIN, and multi-table joins. | INNER/LEFT JOIN, USING, GROUP BY, ORDER BY, Multi-Table Joins |
 
 ---
 
